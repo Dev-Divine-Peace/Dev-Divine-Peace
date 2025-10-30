@@ -1,9 +1,17 @@
-## Hi there 👋
-
-<!--
-**Dev-Divine-Peace/Dev-Divine-Peace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi, I'm Divine-Peace 💻
+##### Data Science | AI/ML | Automation Systems
+---
+## 🎙About Me
+- Data Scientist focused on AI,ML and Visualization.
+- Exploring education and ethical tech applications.
+- Skilled in Data cleaning and visualization.
+- Automating workflows using N8N, Zapier & Make.com
+---
+## 🧰Tool & Languages
+| Language | ML & Data |
+| ----------- | ----------- |
+| Python | Title |
+| Paragraph | Text |
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
