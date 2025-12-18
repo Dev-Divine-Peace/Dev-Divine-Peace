@@ -6,13 +6,13 @@
 - Data Scientist focused on AI,ML and Visualization.
 - Exploring education and ethical tech applications.
 - Skilled in Data cleaning and visualization.
-- Automating workflows using N8N, Zapier & Make.com
+
 ---
 ## 🧰Tool & Languages
-| Language | ML & Data | Visualization | Web/Frontend | Automation | Other tools |
-| ----------- | ----------- | ----------- | ----------- | ----------- | -----------
-| Python | Pandas | Matplotlib | Html, CSS | N8N, Zapier | Git, Github
-| Javascript | Numpy | PowerBI | Basic React | Make.com | Hugging face, API
+| Language | ML & Data | Visualization | Web/Frontend | Other tools |
+| ----------- | ----------- | ----------- | ----------- | ----------- 
+| Python | Pandas | Matplotlib | Html, CSS | Git, Github
+| Javascript | Numpy | Seaborn | Basic React | 
 ---
 ## 🔭Projects
 - [Python Projects](https://github.com/Dev-Divine-Peace/Python-Projects)
@@ -22,8 +22,8 @@
 - [Hashnode](https://hashnode.com/@Divine-PeaceE)
 ---
 ## 📫Work with Me
-- Looking for: Data Science internships/roles, Collaborative open-source projects, Automation projects
-- Currently learning PowerBI, AI/Ml
+- Looking for: Data Science internships/roles, Collaborative open-source projects
+- Currently learning AI/Ml
 - Ideal work: Building data-driven products
 ---
 ## 👯Connect With Me
