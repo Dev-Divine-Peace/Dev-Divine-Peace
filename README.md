@@ -1,37 +1,47 @@
-# Hi, I'm Divine-Peace 💻
-##### Data Science | AI/ML | Automation Systems
-###### *Bringing clarity to complexity -- through code, design and data.*
+<div align="center">
+  
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwfYls_ejHQ_D_RxjOrOOtyLXxGo7ohDul1A&s)
+
+# Hi 👋, I'm Ehuchie Divine-Peace
+### Chemist | Data Scientist
+###### *Bringing clarity to complexity -- through code and data.*
+
+</div>
+
 ---
 ## 🎙About Me
-- Data Scientist focused on AI,ML and Visualization.
-- Exploring education and ethical tech applications.
-- Skilled in Data cleaning and visualization.
-
+- Transitioning from FE to Data Science
+- I enjoy turning raw data into actionable insights
+- Documenting my becoming
 ---
 ## 🧰Tool & Languages
 | Language | ML & Data | Visualization | Web/Frontend | Other tools |
 | ----------- | ----------- | ----------- | ----------- | ----------- 
-| Python | Pandas | Matplotlib | Html, CSS | Git, Github
-| Javascript | Numpy | Seaborn | Basic React | 
+| Python | Pandas, Numpy | Matplotlib, PowerBI | Html, CSS | Git, Github
+| Javascript | Scikit-learn | Seaborn | Basic React | Excel
 ---
 ## 🔭Projects
 - [Python Projects](https://github.com/Dev-Divine-Peace/Python-Projects)
-- [Data Projects](https://www.kaggle.com/ehuchiedivinepeace)
+- [Data Projects on Kaggle](https://www.kaggle.com/ehuchiedivinepeace)
+- Dataraflow - Data Science internship projects
+- Data Analyst internship projects
 ---
 ## ⚡Writing/Publications
 - [Hashnode](https://hashnode.com/@Divine-PeaceE)
 ---
 ## 📫Work with Me
-- Looking for: Data Science internships/roles, Collaborative open-source projects
-- Currently learning AI/Ml
+- Looking for: Data Science internships/roles, Collaborative projects that would improve my proficiency in data science
 - Ideal work: Building data-driven products
 ---
 ## 👯Connect With Me
+- [Email](divinepeace31@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/divine-peace-ehuchie-94928b23a/)
+- [X](https://x.com/TheDataAda)
 --- 
 ## 😄Fun fact
-- I love pen and paper.
-- I love eating and trying out new spices/recipes.
+- I love pen and paper
+- I love walking
+- I love eating and trying out new spices/recipes
   
 <!-- -  I’m currently working on ...
 - 🌱 
