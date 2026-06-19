@@ -3,7 +3,7 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwfYls_ejHQ_D_RxjOrOOtyLXxGo7ohDul1A&s)
 
 # Hi 👋, I'm Ehuchie Divine-Peace
-### Chemist | Data Scientist
+### Data Analyst | Data Scientist
 ###### *Bringing clarity to complexity -- through code and data.*
 
 </div>
@@ -23,14 +23,16 @@
 ## 🔭Projects
 - [Python Projects](https://github.com/Dev-Divine-Peace/Python-Projects)
 - [Data Projects on Kaggle](https://www.kaggle.com/ehuchiedivinepeace)
+- Data Analysis Projects
 - Dataraflow - Data Science internship projects
-- Jadon's Hub Mentorship Series: [Data Analyst internship projects](https://github.com/Dev-Divine-Peace/Jadons-Hub-Mentorship-Series)
+<!-- - Jadon's Hub Mentorship Series: [Data Analyst internship projects](https://github.com/Dev-Divine-Peace/Jadons-Hub-Mentorship-Series)-->
 ---
 ## ⚡Writing/Publications
 - [Hashnode](https://hashnode.com/@Divine-PeaceE)
+- [Medium](https://medium.com/@divinepeace31))
 ---
 ## 📫Work with Me
-- Looking for: Data Science internships/roles, Collaborative projects that would improve my proficiency in data science
+- Looking for: Data Analyst/Science internships/roles, Collaborative projects that would improve my proficiency in data 
 - Ideal work: Building data-driven products
 ---
 ## 👯Connect With Me
