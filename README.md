@@ -24,7 +24,7 @@
 - [Python Projects](https://github.com/Dev-Divine-Peace/Python-Projects)
 - [Data Projects on Kaggle](https://www.kaggle.com/ehuchiedivinepeace)
 - [Data Analysis Projects](https://github.com/Dev-Divine-Peace/Data-Analysis-Projects)
-- Dataraflow - Data Science internship projects
+- [Dataraflow - Data Science internship projects](https://github.com/Dev-Divine-Peace/DataraFlow)
 <!-- - Jadon's Hub Mentorship Series: [Data Analyst internship projects](https://github.com/Dev-Divine-Peace/Jadons-Hub-Mentorship-Series)-->
 ---
 ## ⚡Writing/Publications
